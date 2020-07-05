@@ -1,0 +1,5 @@
+@import url(/css/public_css/bootstrap.css);@import url(/css/public_css/style.css);@import url(/plugins/revolution/css/settings.css);@import url(/plugins/revolution/css/layers.css);@import url(/plugins/revolution/css/navigation.css);@import url(/css/public_css/responsive.css);@import url(/css/public_css/color-themes/redd-color.css);.error_class {
+  color: red;
+  border-color: red;
+}
+

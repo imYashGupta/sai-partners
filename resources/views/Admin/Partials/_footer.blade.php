@@ -1,0 +1,1 @@
+ <p class="copyright-text">© 2018 <a href="#">Expert Themes</a> All right reserved.</p>
